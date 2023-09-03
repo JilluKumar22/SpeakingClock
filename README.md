@@ -14,6 +14,8 @@ Clone the repo
 
 git clone https://github.com/JilluKumar22/SpeakingClock.git
 
+unzip the project
+
 Install pom file
 
 mvn clean install
